@@ -7,8 +7,14 @@ Some of the results:
 
 ![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/resultScreenshots/primitives.jpg)
 
-2)Processing a noisy image. Diffusion, Gaussian, and median filters are used
+2)Processing a noisy image. Diffusion, Gaussian, and Median filters are used (Noise_4.cpp, Widget4 in main.cpp)
 
 ![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/resultScreenshots/imageProcessing.png)
 
+3)Сomparison of two STL models with minor differences (ReadSTL_6.cpp, Widget6 in main.cpp)
 
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/resultScreenshots/comparsionSTL's.png)
+
+4)Сreating a 3d model from a BMP image (VolumeFromImage_5.cpp, Widget5 in main.cpp)
+
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/resultScreenshots/volumeFromImage.png)

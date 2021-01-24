@@ -10,7 +10,6 @@ CONFIG += c++11
 DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
-    experimental.cpp \
     lab.cpp \
     lab1_Rocket.cpp \
     lab2_SolarSystem.cpp \

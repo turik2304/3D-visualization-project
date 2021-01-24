@@ -1,10 +1,9 @@
-/*
 //Подключение заголовочных файлов
 #include "widget.h"
 #include "ui_widget.h"
 
 //Основной конструктор класса
-Widget::Widget(QWidget *parent) : QWidget(parent), ui(new Ui::Widget)
+Lab0::Lab0(QWidget *parent) : QWidget(parent), ui(new Ui::Widget)
 {
     ui->setupUi(this); //Установка виджета визуализации QVTKWidget
 //Основной алгоритм
@@ -63,9 +62,7 @@ Widget::Widget(QWidget *parent) : QWidget(parent), ui(new Ui::Widget)
 }
 
 //Деструктор класса
-Widget::~Widget()
+Lab0::~Lab0()
 {
     delete ui;
 }
-
-*/

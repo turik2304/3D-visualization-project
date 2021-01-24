@@ -18,3 +18,16 @@ Some of the results:
 4)Сreating a 3d model from a BMP image (VolumeFromImage_5.cpp, Widget5 in main.cpp)
 
 ![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/resultScreenshots/volumeFromImage.png)
+
+5)Work with primitives in primitivesProject/ (Rocket, lab1_Rocket.cpp, Lab1 in main.cpp)
+
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/primitivesProject/resultsScreenshots/lab1_Rocket.png)
+
+    5.1)Solar System
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/primitivesProject/resultsScreenshots/lab2_SolarSystem1.png)
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/primitivesProject/resultsScreenshots/lab2_SolarSystem2.png)    
+    
+    5.2)Earth
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/primitivesProject/resultsScreenshots/lab3_Earth1.png)
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/primitivesProject/resultsScreenshots/lab3_Earth2.png)
+![alt text](https://github.com/turik2304/3D-visualization-project/blob/main/primitivesProject/resultsScreenshots/lab3_Earth3.png)
